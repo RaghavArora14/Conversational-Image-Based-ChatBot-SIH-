@@ -1,1 +1,4 @@
-
+torch
+git+https://github.com/huggingface/transformers
+qwen_vl_utils
+google-generativeai
